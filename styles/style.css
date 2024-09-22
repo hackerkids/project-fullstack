@@ -1,0 +1,20 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap');
+
+
+
+
+header {
+    background-color: rgb(236, 205, 169);
+    width: auto;
+    height: 100px;
+   
+    h1 {
+
+        text-align: center;
+        font-family: Sofadi One,;
+        color:green;
+    }
+
+}
